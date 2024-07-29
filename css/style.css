@@ -13974,7 +13974,7 @@ ol.commentlist li::after {
 	.header-style-1 .logo-header:after{display:none;}
 	
 	.header-style-1 .logo-show-in-mobile,
-	.header-style-3 .logo-show-in-mobile{width:136px;}{width:136px;}
+	.header-style-3 .logo-show-in-mobile{width:136px;}
 }
 @media only screen and (max-width:767px) {
 	.header-style-1.site-header .container,
