@@ -13691,7 +13691,7 @@ ol.commentlist li::after {
 	.header-nav .nav>li:first-child>a {padding-left: 12px;}
 }
 
-.header-nav .nav>li>a {border-radius: 0;color: #555;font-size: 14px;font-weight: 600;padding: 35px 12px;cursor: pointer;}
+.header-nav .nav>li>a {border-radius: 0;color: #555;font-size: 17px;font-weight: 600;padding: 35px 12px;cursor: pointer;}
 .header-nav .nav>li>a:hover {background-color: transparent;color: #212427;}
 .header-nav .nav>li>a:active,
 .header-nav .nav>li>a:focus {background-color: transparent;}
@@ -13720,7 +13720,7 @@ ol.commentlist li::after {
 }
 
 .header-nav .nav>li .sub-menu li {position: relative;text-transform: none;font-weight: 600;}
-.header-nav .nav>li .sub-menu li a {color: #000;display: block;font-size: 13px;padding: 14px 20px;}
+.header-nav .nav>li .sub-menu li a {color: #000;display: block;font-size: 15px;padding: 14px 20px;}
 .header-nav .nav>li .sub-menu li a:after {content:"";position:absolute;left:0px;bottom:0px;width:0%;height:2px;background-color:#ff5e14;
 	transition: all 0.3s ease;}
 .header-nav .nav>li .sub-menu li a:hover:after {width:30px;left:25px}
@@ -14264,7 +14264,7 @@ ol.commentlist li::after {
   
   .color-fill .main-bar {
 	/* position: fixed; */
-	animation: .95s ease 0s normal forwards 1 running mainBar_on_scrollAnimatio;
+	/* animation: .1s ease 0s normal forwards 1 running mainBar_on_scrollAnimatio; */
   }
   
   @keyframes mainBar_on_scrollAnimatio {
